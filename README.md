@@ -44,6 +44,16 @@ This hybrid architecture was developed to test hypothesis-driven improvements in
 * **Recall:** 96.19%
 * **F1-Score:** 95.80%
 
+## Author
+Naina Agarwal
+BTech Computer Science (Data Science)
+Bangalore Institute of Technology
+
+Passionate about leveraging Machine Learning, Computer Vision, and advanced data structures to build real-world solutions for environmental monitoring and automated systems.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
 ## Repository Structure
 ```text
 oil-spill-hybrid-segmentation/
@@ -51,13 +61,8 @@ oil-spill-hybrid-segmentation/
 ├── .gitignore
 ├── LICENSE
 ├── README.md
-└── oil-spill-hybrid.ipynb
-Author
-Naina Agarwal
-BTech Computer Science (Data Science)
-Bangalore Institute of Technology
+└── oil-spill-hybrid.ipynb 
+  
 
-Passionate about leveraging Machine Learning, Computer Vision, and advanced data structures to build real-world solutions for environmental monitoring and automated systems.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
