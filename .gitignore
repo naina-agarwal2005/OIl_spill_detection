@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Machine Learning Data & Models
+*.h5
+*.pth
+*.pt
+*.pkl
+/data/
+/datasets/
+*.csv
+*.zip
+
+# OS generated files
+.DS_Store
+Thumbs.db
